@@ -3,7 +3,7 @@
 <!-- =============================== -->
 
 <p align="center">
-  <img src="./assets/logo.png" alt="DevCast Solutions Logo" width="220"/>
+  <img src=".github/assets/Logo.png" alt="DevCast Solutions Logo" width="220"/>
 </p>
 
 <h1 align="center">DevCast Solutions</h1>
